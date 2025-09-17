@@ -1,0 +1,8 @@
+example.com
+google.com
+github.com
+# This is a comment line - will be ignored
+stackoverflow.com
+
+# Another comment
+microsoft.com
