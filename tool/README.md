@@ -29,6 +29,17 @@ For complete documentation, configuration options, and usage examples, please re
 - [Official Repository](https://github.com/six2dez/reconftw)
 - [Wiki Documentation](https://github.com/six2dez/reconftw/wiki)
 
-### Disclaimer
+### ⚠️ Important Security and Legal Disclaimer
 
-Usage of reconFTW for attacking targets without prior consent is illegal. It is the user's responsibility to obey all applicable laws. The developers assume no liability for misuse or damage caused by this tool. Use responsibly.
+**CRITICAL WARNING**: Usage of reconFTW for attacking targets without prior written consent is ILLEGAL and may result in criminal prosecution.
+
+**Before using this tool:**
+- ✅ **Authorization Required**: Always obtain explicit written permission from the target organization before conducting any reconnaissance or security testing
+- 🔑 **API Key Management**: Properly secure and manage any API keys used by the tool. Never commit API keys to version control
+- ⏱️ **Rate Limiting**: Be aware of rate limits on target systems and APIs to avoid service disruption
+- 📋 **Documentation**: Maintain detailed records of authorization, scope, and activities performed
+- 🌍 **Legal Compliance**: Ensure compliance with all applicable local, state, federal, and international laws
+
+**Liability**: The developers of reconFTW and this repository assume NO liability for misuse, damage, legal consequences, or any other issues arising from the use of this tool. Users bear full responsibility for their actions.
+
+**Use Responsibly and Ethically** - This tool is intended for legitimate security research, authorized penetration testing, and educational purposes only.
